@@ -23,7 +23,7 @@ const ospranto = {
   roles: ["Digital Marketer", "AI Video Editor"],
   expertise: ["Facebook Marketing", "Meta Ads", "On-Page SEO"],
   brand: "OSPranto Tech",
-  location: "Dhaka, Bangladesh 🇧🇩",
+  location: "Dhaka, Bangladesh",
   website: "www.OSPranto.Pro.bd",
   motto: "Strategy + Creativity = Growth 🚀",
 };
@@ -59,17 +59,11 @@ const ospranto = {
 ## 🧰 Tools I Use
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pr,ae,ps,ai,figma,notion&theme=dark" alt="creative tools" />
+  <img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Ads" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&logoColor=white" alt="Search Console" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
 </div>
 
 ---
@@ -80,7 +74,7 @@ const ospranto = {
 
 [![Website](https://img.shields.io/badge/Website-OSPranto.Pro.bd-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.OSPranto.Pro.bd)
 [![Email](https://img.shields.io/badge/Email-Hello@OSPranto.Pro.bd-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Hello@OSPranto.Pro.bd)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801XXXXXXXXX)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/OSPranto.Official)]
 
 [![Facebook](https://img.shields.io/badge/Facebook-OSPranto.Official-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ospranto.official)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ospranto.official)
