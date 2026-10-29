@@ -17,16 +17,13 @@
 
 ## 👨‍💼 About Me
 
-```js
-const ospranto = {
-  name: "Obaida Siddque Pranto",
-  roles: ["Digital Marketer", "AI Video Editor"],
-  expertise: ["Facebook Marketing", "Meta Ads", "On-Page SEO"],
-  brand: "OSPranto Tech",
-  location: "Dhaka, Bangladesh",
-  website: "www.OSPranto.Pro.bd",
-  motto: "Strategy + Creativity = Growth 🚀",
-};
+- 👤 **Name:** Obaida Siddque Pranto
+- 💼 **Roles:** Digital Marketer • AI Video Editor
+- 🎯 **Expertise:** Facebook Marketing • Meta Ads • On-Page SEO
+- 🏢 **Brand:** OSPranto Tech
+- 📍 **Location:** Dhaka, Bangladesh
+- 🌐 **Website:** [www.OSPranto.Pro.bd](https://www.OSPranto.Pro.bd)
+- 🚀 **Motto:** *Strategy + Creativity = Growth*
 ```
 
 ---
